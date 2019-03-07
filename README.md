@@ -11,3 +11,20 @@ https://store.steampowered.com/app/469920/hackmud
 ![hackmud screenshot](https://steamcdn-a.akamaihd.net/steam/apps/469920/ss_e5ef1c8057fdfae006fd097fa6d17c0b23ce3b97.600x338.jpg)
 
 hackmud is a text-based multiplayer hacking simulator for Intel-compatible personal home computers. Crack protected systems and solve puzzles as you explore the abandoned internet of the future. Write scripts to protect your winnings and trick other players. Lose everything. Get it back. 
+
+# Elevator Saga (JS)
+https://play.elevatorsaga.com/
+
+![elevator saga screenshot](https://artemdemo.me/wp-content/uploads/2015/01/elevator-saga.png)
+
+Your task is to program the movement of elevators, by writing a program in JavaScript.
+The goal is to transport people in an efficient manner.
+Depending on how well you do it, you can progress through the ever more difficult challenges.
+Only the very best programs will be able to complete all the challenges. 
+
+# CodinGame (20+ languages)
+https://www.codingame.com/home
+
+![codingame screenshot](https://fossbytes.com/wp-content/uploads/2016/09/codingame-get-better-at-coding.jpg)
+
+Online platform for developers, allowing them to play with programming with increasingly difficult puzzles, to learn to code better with an online programming application supporting twenty-five programming languages, and to compete in multiplayer programming contests involving timed artificial intelligence, or code golf challenges. 
