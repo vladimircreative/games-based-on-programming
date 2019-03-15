@@ -28,3 +28,25 @@ https://www.codingame.com/home
 ![codingame screenshot](https://fossbytes.com/wp-content/uploads/2016/09/codingame-get-better-at-coding.jpg)
 
 Online platform for developers, allowing them to play with programming with increasingly difficult puzzles, to learn to code better with an online programming application supporting twenty-five programming languages, and to compete in multiplayer programming contests involving timed artificial intelligence, or code golf challenges. 
+
+# Zachtronics Games (subsets of Assembly):
+## TIS-100
+https://store.steampowered.com/app/370360/TIS100/
+
+![TIS-100 screenshot](https://steamcdn-a.akamaihd.net/steam/apps/370360/ss_8ac71a25dc13d789213f9edeff9ece1ee58e5d81.1920x1080.jpg)
+
+TIS-100 is an open-ended programming game in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It’s the assembly language programming game you never asked for! 
+
+## Shenzhen I/O
+https://store.steampowered.com/app/504210/SHENZHEN_IO/
+
+![Shenzhen I/O screenshot](https://steamcdn-a.akamaihd.net/steam/apps/504210/ss_f32d4d5ee3cba2519041436e325f304044302687.1920x1080.jpg)
+
+BUILD CIRCUITS. WRITE CODE. RTFM. 
+
+## Exapunks
+https://store.steampowered.com/app/504210/SHENZHEN_IO/
+
+![Exapunks I/O screenshot](https://steamcdn-a.akamaihd.net/steam/apps/716490/ss_d8d2e9ca43db1c4b35ff2abe6d4da473e32bcc29.1920x1080.jpg)
+
+The year is 1997. You used to be a hacker, but now you have the phage. You made a deal: one hack, one dose. There’s nothing left to lose… except your life. 
