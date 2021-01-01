@@ -12,7 +12,7 @@ https://store.steampowered.com/app/469920/hackmud
 
 hackmud is a text-based multiplayer hacking simulator for Intel-compatible personal home computers. Crack protected systems and solve puzzles as you explore the abandoned internet of the future. Write scripts to protect your winnings and trick other players. Lose everything. Get it back. 
 
-# >Grey Hack_ (JS)
+# >Grey Hack_ ("MiniScript")
 https://store.steampowered.com/app/605230/Grey_Hack
 
 ![greyhack screenshot](https://cdn.cloudflare.steamstatic.com/steam/apps/605230/ss_38c356d35aa72a3dbfdbf6ffe1d6f001eec1e1cc.1920x1080.jpg?t=1595559643)
